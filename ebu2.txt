@@ -1,3 +1,4 @@
 bunu titleDegis branchinde actim, haberiniz ola.
 Conflict olmasi icin her seyi yaparim.
 cherry-pick icin ornek.
+
